@@ -1,0 +1,7 @@
+customer = codesters.Sprite("person8")
+
+menu_list = ["hamburger", "nachos", "chicken", "turkey sandwich"]
+
+food_order = menu_list[3]
+
+customer.say("I'd like the " + food_order + " please!")
